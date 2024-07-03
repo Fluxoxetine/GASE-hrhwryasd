@@ -1,6 +1,6 @@
 @echo off
 chcp 65001
-title MCC Loader Webhook Spammer.
+title Webhook Spammer
 color 1
 :menu
 cls
